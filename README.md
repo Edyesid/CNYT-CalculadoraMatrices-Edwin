@@ -1,9 +1,11 @@
 # CNYT-Edwin
 Escuela Colombiana de ingenieria Julio Garavito<br/>
+<br/>
 Edwin Yesid Rodriguez Maldonado<br/>
+<br/>
                          Calculadora de numeros matrices complejas calculadoraMatrices.rar<br/>
 En este programa se pueden realizar operaciones entre matrices complejas:<br/>
-
+<br/>
 Adición de vectores complejos.<br/>
 Inversa de vectores complejos.<br/>
 Multiplicación escalar de vectores complejos.<br/>
@@ -21,8 +23,9 @@ Revisar si es Hermitian<br/>
 Producto tensor.<br/>
 Multiplicacion entre matrices<br/>
 producto interno de vectores<br/>
+<br/>
 Para ello se creo la clase complexaArray que maneja todos los metodos que se pueden hacer con las matrices y la clase complexVector que contiene todos los metodos que se pueden hacer con los vectores, tambien está la clase complex que hace las operaciones basicas entre numeros complejos.
-
-Se hacen las pruebas descritas en el documento CNYT_Pruebas_Proyecto_2.pdf con el fin de demostrar que los metodos funcionan.
+<br/>
+Se hacen las pruebas descritas en el documento CNYT_Pruebas_Proyecto_2.pdf con el fin de mostrar que los metodos funcionan.
   
   
